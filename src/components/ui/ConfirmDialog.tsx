@@ -1,4 +1,6 @@
-import { btnPrimary, btnSecondary } from './common';
+import {
+  // btnPrimary,
+  btnSecondary } from './common';
 
 export function ConfirmDialog({ title, message, confirmLabel, onConfirm, onCancel }: {
   title: string; message: string; confirmLabel: string; onConfirm: () => void; onCancel: () => void;
