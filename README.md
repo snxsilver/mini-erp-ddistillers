@@ -1,9 +1,9 @@
 # Mini ERP — Inventory Management
 ### Take-Home Assessment | PT. Syailendra Bumi Investama (DDistillers)
 
-**Candidate:** [Your Name]  
-**Actual Working Duration:** [Actual Hours/Days]  
-**Deployment URL:** [Not deployed / Deployment URL]
+**Candidate:** M Syaiful Adli
+**Actual Working Duration:** Approx. 4 hours
+**Deployment URL:** https://syaiful-erp-ddistillers.vercel.app/
 
 ## 1. Overview
 
@@ -349,7 +349,7 @@ The final test run passed all **117 tests across 8 test files**, covering invent
 
 ## 18. Candidate Details
 
-- **Name:** [Your Name]
-- **Actual Working Duration:** [Actual Hours/Days]
-- **Repository:** [Repository URL]
-- **Deployment:** [Deployment URL / Not deployed]
+- **Name:** M Syaiful Adli
+- **Actual Working Duration:** Approx. 4 hours
+- **Repository:** https://github.com/snxsilver/mini-erp-ddistillers.git
+- **Deployment:** https://syaiful-erp-ddistillers.vercel.app/
